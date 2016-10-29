@@ -1,8 +1,12 @@
+<<<<<<< 9aea04f7f88d613f5a927f2bfa7b158633d4ec79
 New git merge test with git
 
 =======
 Find out more here: www.jointswp.com  
 Demo: www.jointswp.com/demo
+=======
+New git merge test
+>>>>>>> Stage test
 
 Currently using Foundation 6.2.3
 
