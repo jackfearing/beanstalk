@@ -1,6 +1,10 @@
+<<<<<<< d10298ea8f634a1b5837fe1eaf4e56cd7e6a43f0
 <<<<<<< ca98599fefabd9311bd336cf6b85c98817567f0d
 <<<<<<< e4329d15bd4c0a984f0334d30525819773b295fa
 <<<<<<< 7650c2e822fca496d1c8fc0c8524ea27d6563212
+=======
+New git merge test
+>>>>>>> Stage test
 
 =======
 =======
