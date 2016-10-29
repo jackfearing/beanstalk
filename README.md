@@ -1,5 +1,5 @@
-<<<<<<< 04f9bd601399b8511b513f0f70640f648c1a2d1a
-# beanstalk
+New git merge test
+
 =======
 Find out more here: www.jointswp.com  
 Demo: www.jointswp.com/demo
@@ -30,5 +30,5 @@ You can use whatever you want – seriously. While the Sass version comes with B
 - Run npm install
 - Run gulp to confirm everything is working
 
-[Read more about how Gulp is used with JointsWP.](http://jointswp.com/docs/gulp/)Super 
+[Read more about how Gulp is used with JointsWP.](http://jointswp.com/docs/gulp/)Super
 >>>>>>> first beanstalk commit
