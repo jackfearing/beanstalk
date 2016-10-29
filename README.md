@@ -1,4 +1,4 @@
-New git merge test
+New git merge test with git
 
 =======
 Find out more here: www.jointswp.com  
