@@ -1,21 +1,3 @@
-<<<<<<< d10298ea8f634a1b5837fe1eaf4e56cd7e6a43f0
-<<<<<<< ca98599fefabd9311bd336cf6b85c98817567f0d
-<<<<<<< e4329d15bd4c0a984f0334d30525819773b295fa
-<<<<<<< 7650c2e822fca496d1c8fc0c8524ea27d6563212
-=======
-New git merge test
->>>>>>> Stage test
-
-=======
-=======
->>>>>>> first beanstalk commit
-=======
-<<<<<<< 04f9bd601399b8511b513f0f70640f648c1a2d1a
-# beanstalk
-=======
->>>>>>> first beanstalk commit
-Find out more here: www.jointswp.com  
-Demo: www.jointswp.com/demo
 
 Currently using Foundation 6.2.3
 
@@ -48,12 +30,12 @@ You can use whatever you want – seriously. While the Sass version comes with B
 [Read more about how Gulp is used with JointsWP.](http://jointswp.com/docs/gulp/)Super
 >>>>>>> first beanstalk commit
 =======
-[Read more about how Gulp is used with JointsWP.](http://jointswp.com/docs/gulp/)Super 
+[Read more about how Gulp is used with JointsWP.](http://jointswp.com/docs/gulp/)Super
 >>>>>>> first beanstalk commit
 =======
 # beanstalk
 >>>>>>> Initial commit
 =======
-[Read more about how Gulp is used with JointsWP.](http://jointswp.com/docs/gulp/)Super 
+[Read more about how Gulp is used with JointsWP.](http://jointswp.com/docs/gulp/)Super
 >>>>>>> first beanstalk commit
 >>>>>>> first beanstalk commit
