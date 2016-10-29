@@ -1,4 +1,4 @@
-New git merge test
+New git merge test with git
 
 Currently using Foundation 6.2.3
 
