@@ -1,3 +1,4 @@
+New git merge test
 
 Currently using Foundation 6.2.3
 
