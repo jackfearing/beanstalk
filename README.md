@@ -1,3 +1,4 @@
+<<<<<<< e4329d15bd4c0a984f0334d30525819773b295fa
 <<<<<<< 7650c2e822fca496d1c8fc0c8524ea27d6563212
 
 =======
@@ -38,3 +39,6 @@ You can use whatever you want – seriously. While the Sass version comes with B
 =======
 [Read more about how Gulp is used with JointsWP.](http://jointswp.com/docs/gulp/)Super 
 >>>>>>> first beanstalk commit
+=======
+# beanstalk
+>>>>>>> Initial commit
